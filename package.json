@@ -4,6 +4,7 @@
   "description": "Api functions",
   "main": "app.js",
   "dependencies": {
+    "async": "^2.6.1",
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "eslint": "^5.9.0",
